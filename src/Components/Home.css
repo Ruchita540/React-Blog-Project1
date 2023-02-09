@@ -8,16 +8,31 @@ body{
   }
   
 .home-dis-1{
-    width: 60%;
+    width: 480px;
+    height: 250px;
+    position: relative;
+    left: -120px;
+    /* top: 40px; */
    
     
 }
-.home-dis-2{
-    width: 32%;
-   height: 200px;
+p{
+    color: darkblue;
 }
-.in-div-dis{
-    margin: 5px ;
+
+.home-dis-2{
+    width: 25%;
+   height: 90px;
+   position: relative;
+   left: -330px;
+}
+.in-div-dis2{
+    position: relative;
+    left: 340px;
+    top: -330px;
+    height: 70px;
+    width: 450px;
+
 }
 .image{
     border-radius: 10px;

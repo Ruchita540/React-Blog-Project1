@@ -12,6 +12,8 @@ const Home = () => {
   console.log(data)
   return (
     <>
+    <h1>Home Page</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pharetra finibus tellus, vitae finibus enim. Vivamus tempor aliquet efficitur. Pellentesque id urna vitae lorem pellentesque molestie in ut dolor. Donec eu odio orci. Mauris nec quam neque. Maecenas a velit imperdiet nibh lacinia ornare. Nullam ullamcorper fringilla mi. Curabitur porta felis non nisi pellentesque, non sagittis risus lacinia. Integer in metus suscipit, ullamcorper nunc sit amet, mollis metus. Sed dapibus augue varius, lobortis metus a, sodales purus. Donec varius ac ipsum sit amet iaculis.</p>
       <div className='Home'>
 
         <div className='home-image'>
@@ -23,7 +25,7 @@ const Home = () => {
               <ImageCard src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHzcMPbQ0fhHTylOOMy_j_wuRkqDcFNYGCpw&usqp=CAU' />
 
             </div>
-            <div className='in-div-dis'>
+            <div className='in-div-dis2'>
               <ImageCard src='https://static.toiimg.com/thumb/53110049.cms?width=1200&height=900' />
 
             </div>
